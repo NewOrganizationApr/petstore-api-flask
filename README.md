@@ -1,4 +1,4 @@
-# Petstore API22
+# Petstore API
 
 ## To Build
 ```
