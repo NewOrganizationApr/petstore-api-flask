@@ -1,5 +1,5 @@
 veracode_static_scan:
    policy: 'Veracode Recommended Medium + SCA'
-   profile: 'TestingAPr'
+   profile: 'TestingFirst'
 
 
